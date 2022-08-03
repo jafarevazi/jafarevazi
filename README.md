@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @jafarevazi
+- 👀 I’m interested in working and collaborating with software development teams.
